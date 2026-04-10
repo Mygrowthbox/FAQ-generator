@@ -2,13 +2,13 @@
 
 > A free AI-powered tool that generates SEO-optimized FAQ sections in seconds — no account required for end users.
 
-🔗 **Live demo:** [mygrowthbox.com](https://mygrowthbox.com) *(insert your page URL)*
+🔗 **Live demo:** [mygrowthbox.com]((https://mygrowthbox.com/generateur-de-faq-optimisee/)) *(insert your page URL)*
 
 ---
 
 ## What it does
 
-AI FAQ Generator is a WordPress plugin I built for [MyGrowthBox](https://mygrowthbox.com). Visitors enter a topic, a URL, or a block of text — the AI returns a fully structured FAQ they can customize and paste into any website.
+AI FAQ Generator is a online tool I built. Visitors enter a topic, a URL, or a block of text — the AI returns a fully structured FAQ they can customize and paste into any website.
 
 No sign-up. No paid subscription. Just paste and publish.
 
@@ -73,9 +73,6 @@ Frontend JS
 
 ---
 
-## Status
-
-✅ Live and in use on [mygrowthbox.com](https://mygrowthbox.com)
 
 > This is a proprietary project. The source code is not publicly available.
 
@@ -83,4 +80,4 @@ Frontend JS
 
 ## Author
 
-Built by **[Your Name]** · [mygrowthbox.com](https://mygrowthbox.com) · [LinkedIn](https://linkedin.com/in/VOTRE_PROFIL)
+Built by MGB
