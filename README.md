@@ -2,7 +2,7 @@
 
 > A free AI-powered tool that generates SEO-optimized FAQ sections in seconds — no account required for end users.
 
-🔗 **Live demo:** [mygrowthbox.com]((https://mygrowthbox.com/generateur-de-faq-optimisee/)) *(insert your page URL)*
+🔗 **Live demo:** [mygrowthbox.com](https://mygrowthbox.com/generateur-de-faq-optimisee/)
 
 ---
 
@@ -64,12 +64,6 @@ Frontend JS
   → Full HTML + JSON-LD export
   → Copy via Clipboard API
 ```
-
----
-
-## Screenshots
-
-*Coming soon — live demo available at the link above.*
 
 ---
 
