@@ -1,0 +1,15 @@
+# Source code — not shared publicly
+*.php
+*.js
+*.css
+assets/
+templates/
+includes/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
